@@ -2,7 +2,7 @@
 title: "Nikita Kuzin"
 ---
 
-![Nikita Kuzin](/img/me.jpg)
+![Nikita Kuzin](/img/me.JPG)
 
 I am a first-year PhD student in economics at Arizona State University. 
 
